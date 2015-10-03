@@ -1,0 +1,20 @@
+{
+  "name": "nodelearn",
+  "version": "0.0.1",
+  "description": "simple node app",
+  "main": "server.js",
+  "dependencies": {
+    "beeper": "^1.1.0",
+    "color-terminal": "^0.0.3-4",
+    "express": "^4.13.3",
+    "soundcloud-tracks": "^0.0.2",
+    "through": "^2.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "alekseylovchikov",
+  "license": "ISC"
+}
